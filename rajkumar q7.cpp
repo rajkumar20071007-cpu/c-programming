@@ -6,4 +6,5 @@ int main()
 	scanf("%d",&num);
 	printf("%x is hexadecimal of %d",num,num);
 	return 0;
+
 }
